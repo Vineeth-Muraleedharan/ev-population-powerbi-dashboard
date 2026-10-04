@@ -6,7 +6,7 @@ An interactive Power BI dashboard analysing electric vehicle registrations in Wa
 
 ![Dashboard](images/EV_DA_DB.png)
 
-![Top 10 Models](images/Top_10_Models.png)
+![Top 10 Models](images/top_10_models.png)
 
 ![Range Bin Details](images/range-bin-details.png)
 
