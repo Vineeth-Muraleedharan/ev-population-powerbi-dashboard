@@ -1,6 +1,6 @@
 # EV Population Dashboard (Power BI)
 
-An interactive Power BI dashboard analysing electric vehicle registrations in Washington State. The project covers the data cleaning in Power Query, the DAX measures behind each KPI, and a final dashboard with slicers and page navigation.
+An interactive Power BI dashboard analysing electric vehicle registrations in United States. The project covers the data cleaning in Power Query, the DAX measures behind each KPI, and a final dashboard with slicers and page navigation.
 
 ## Preview
 
