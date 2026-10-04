@@ -93,3 +93,5 @@ The data is stored inside the file, so it opens without the CSV. To refresh from
 - `% of Total by Model` uses `ALL`, so it divides by the full 150,475 records and ignores slicer selections.
 - The Top 10 Models table shows 11 rows because the Top N filter applies to the model name, and the KIA Niro appears as both a battery electric and a hybrid vehicle.
 - A few text measures (Total PHEV Display and the two share labels) exist only to format the KPI cards.
+
+  
